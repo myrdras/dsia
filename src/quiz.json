@@ -1,0 +1,362 @@
+[
+  {
+    "id": "01",
+    "question": "¿Cuál fue el evento clave que marcó el nacimiento de la IA y se celebró en 1956?",
+    "options": [
+      "La creación de la primera computadora personal.",
+      "La Conferencia de Dartmouth sobre IA.",
+      "El desarrollo de la primera red social."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "02",
+    "question": "¿En qué sector se utilizan aplicaciones de IA para personalizar recomendaciones de productos y contenido?",
+    "options": [
+      "Agricultura",
+      "Retail (venta al por menor)",
+      "Energía"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "03",
+    "question": "¿En qué campo de la medicina se utiliza la IA para analizar imágenes médicas y ayudar en el diagnóstico?",
+    "options": [
+      "Radiología",
+      "Dermatología",
+      "Odontología"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "04",
+    "question": "¿En qué área de la industria automotriz se aplican técnicas de IA para lograr la conducción autónoma?",
+    "options": [
+      "Diseño de vehículos",
+      "Fabricación de neumáticos",
+      "Vehículos autónomos"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "05",
+    "question": "¿Cuál es uno de los objetivos principales del aprendizaje por refuerzo?",
+    "options": [
+      "Realizar clasificaciones precisas.",
+      "Minimizar el error cuadrático medio.",
+      "Maximizar una recompensa acumulativa a lo largo del tiempo."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "06",
+    "question": "¿Cuál es el objetivo principal de los algoritmos de clasificación en aprendizaje automático?",
+    "options": [
+      "Predecir valores numéricos.",
+      "Asignar una etiqueta a un objeto o dato.",
+      "Agrupar datos similares."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "07",
+    "question": "¿Cuál es el resultado típico de un algoritmo de regresión?",
+    "options": [
+      "Una etiqueta de clase.",
+      "Una estimación numérica.",
+      "Un conjunto de características."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "08",
+    "question": "¿Cuál de las siguientes afirmaciones describe mejor la matriz de confusión en el contexto de clasificación?",
+    "options": [
+      "Una tabla que muestra la cantidad de verdaderos negativos.",
+      "Una tabla que muestra la cantidad de falsos positivos y falsos negativos.",
+      "Una tabla que resume el rendimiento del modelo en términos de verdaderos positivos, falsos positivos, verdaderos negativos y falsos negativos."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "09",
+    "question": "¿Qué es una neurona artificial en una red neuronal?",
+    "options": [
+      "Una célula biológica utilizada en la IA.",
+      "Un componente de hardware utilizado en servidores de datos.",
+      "La unidad básica de procesamiento en una red neuronal artificial."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "10",
+    "question": "¿En qué se enfoca la visión por computadora?",
+    "options": [
+      "En el análisis de texto y lenguaje natural.",
+      "En la interpretación y análisis de imágenes y videos.",
+      "En la optimización de algoritmos de búsqueda en la web."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "11",
+    "question": "¿Qué tarea implica la detección de objetos en el contexto de la visión por computadora?",
+    "options": [
+      "Clasificar imágenes en categorías generales.",
+      "Identificar objetos en una imagen y dibujar cajas delimitadoras alrededor de ellos.",
+      "Crear imágenes de alta resolución."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "12",
+    "question": "¿Cuál es el objetivo principal del reconocimiento de patrones?",
+    "options": [
+      "Identificar objetos en imágenes.",
+      "Encontrar patrones y estructuras en datos.",
+      "Predecir el futuro movimiento de objetos."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "13",
+    "question": "¿Qué tecnología se utiliza para el seguimiento de objetos en aplicaciones como la conducción autónoma y la vigilancia?",
+    "options": [
+      "Detección de objetos",
+      "Aprendizaje por refuerzo",
+      "Redes neuronales recurrentes"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "14",
+    "question": "¿En qué consiste la segmentación semántica en visión por computadora?",
+    "options": [
+      "Dividir una imagen en regiones de interés basadas en la textura.",
+      "Asignar una etiqueta semántica a cada píxel de una imagen, indicando a qué objeto o clase pertenece.",
+      "Resaltar bordes y contornos de objetos en una imagen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "15",
+    "question": "¿Cuál es una de las aplicaciones clave de la segmentación semántica en vehículos autónomos?",
+    "options": [
+      "Clasificar vehículos según su marca.",
+      "Identificar y delinear la carretera y los obstáculos.",
+      "Contar el número de personas en la acera."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "16",
+    "question": "¿Qué tipo de algoritmo se utiliza comúnmente en problemas de clasificación que implica predecir la pertenencia de una entrada a una o más categorías?",
+    "options": [
+      "Algoritmo de Regresión Logística",
+      "Algoritmo de Regresión Lineal",
+      "Algoritmo de Máquinas de Soporte Vectorial (SVM)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "17",
+    "question": "¿Cuáles son los tres enfoques principales dentro del campo de la inteligencia artificial y el aprendizaje automático?",
+    "options": [
+      "Aprendizaje supervisado, aprendizaje no supervisado y aprendizaje por refuerzo",
+      "Aprendizaje supervisado, aprendizaje reforzado y aprendizaje profundo",
+      "Aprendizaje automático, inteligencia artificial y procesamiento de lenguaje natural"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "18",
+    "question": "¿En qué se basa el aprendizaje supervisado?",
+    "options": [
+      "En el uso de modelos de máquina para encontrar patrones ocultos en los datos.",
+      "En el entrenamiento de un modelo con ejemplos etiquetados que relacionan entradas con salidas deseadas.",
+      "En la interacción de un agente con un entorno para maximizar recompensas acumulativas."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "19",
+    "question": "¿Cuál es el componente principal de una red neuronal artificial?",
+    "options": [
+      "Un conjunto de imágenes de entrenamiento.",
+      "Un conjunto de reglas lógicas.",
+      "Neuronas interconectadas en capas."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "20",
+    "question": "¿Qué es la capa de entrada en una red neuronal?",
+    "options": [
+      "La capa que recibe la entrada de datos.",
+      "La capa que genera la salida de la red.",
+      "La capa que realiza operaciones matemáticas complejas."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "21",
+    "question": "¿Cuál es el término común para una red neuronal artificial con múltiples capas ocultas?",
+    "options": [
+      "Red neuronal superficial.",
+      "Red neuronal profunda (Deep Learning).",
+      "Red neuronal lineal."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "22",
+    "question": "¿Qué técnica se utiliza comúnmente en la detección de objetos para marcar la ubicación y el tamaño de un objeto en una imagen?",
+    "options": [
+      "Clasificación de objetos.",
+      "Regresión de objetos.",
+      "Detección de objetos basada en cajas delimitadoras."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "23",
+    "question": "¿Qué tipo de objeto se puede detectar en una imagen mediante técnicas de detección de objetos?",
+    "options": [
+      "Objetos invisibles.",
+      "Objetos estáticos",
+      "Objetos de interés como personas, automóviles, animales, etc."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "24",
+    "question": "¿Cuál es el objetivo principal del seguimiento de objetos en aplicaciones como la conducción autónoma?",
+    "options": [
+      "Detectar objetos estáticos en la carretera.",
+      "Predecir el futuro movimiento de objetos en movimiento.",
+      "Evaluar la calidad de una imagen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "25",
+    "question": "¿Cuál de las siguientes tareas está relacionada con el reconocimiento de patrones?",
+    "options": [
+      "Dibujar cajas delimitadoras alrededor de objetos en una imagen.",
+      "Encontrar patrones en datos, como reconocer letras escritas a mano.",
+      "Rastrear la posición de un objeto en movimiento."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "26",
+    "question": "¿Qué es una Máquina de Turing?",
+    "options": [
+      "Un tipo de impresora.",
+      "Un modelo teórico de cómputo que consiste en una cinta infinita y una cabeza de lectura/escritura.",
+      "Una red de computadoras."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "27",
+    "question": "¿Cuál es el principal propósito de una Máquina de Turing en informática teórica?",
+    "options": [
+      "Realizar cálculos matemáticos complejos.",
+      "Producir sonidos en un ordenador.",
+      "Explorar la teoría de la computación y definir límites de lo que es computable."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "28",
+    "question": "¿Cuál de las siguientes afirmaciones es cierta sobre una Máquina de Turing universal?",
+    "options": [
+      "Es una máquina de uso específico que solo realiza una tarea particular.",
+      "Puede simular el comportamiento de cualquier otra Máquina de Turing y, por lo tanto, es capaz de realizar cualquier cálculo que sea computable.",
+      "Se utiliza principalmente para el procesamiento de imágenes."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "29",
+    "question": "¿Qué es un \"estado\" en una Máquina de Turing?",
+    "options": [
+      "Una parte de la cinta que se utiliza para almacenar datos.",
+      "Una unidad de tiempo en la que se realizan cálculos.",
+      "Una condición que especifica la acción a realizar en un momento dado."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "30",
+    "question": "¿Qué métrica se utiliza comúnmente en problemas de regresión para medir el promedio de los cuadrados de las diferencias entre las predicciones del modelo y los valores reales?",
+    "options": [
+      "Precisión",
+      "Mean Squared Error (MSE)",
+      "F1-Score"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "31",
+    "question": "¿En qué etapa del desarrollo de modelos de inteligencia artificial se utilizan las métricas de rendimiento para comparar diferentes enfoques?",
+    "options": [
+      "Evaluación de Modelos",
+      "Monitoreo Continuo",
+      "Desarrollo de Modelos"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "32",
+    "question": "¿Cuál es el propósito de la evaluación de modelos en el aprendizaje automático?",
+    "options": [
+      "Medir cómo se desempeña un modelo en situaciones del mundo real y cómo generaliza a datos no vistos.",
+      "Seleccionar las métricas adecuadas para el proyecto.",
+      "Seleccionar los hiperparámetros del modelo."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "33",
+    "question": "¿Cuál es el objetivo principal de los algoritmos de regresión en el aprendizaje automático?",
+    "options": [
+      "Predecir la pertenencia de una entrada a categorías discretas.",
+      "Predecir valores numéricos continuos en función de variables de entrada.",
+      "Encontrar patrones y estructuras ocultas en los datos."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "34",
+    "question": "¿Cuál es el propósito de la métrica de \"F1-Score\" en problemas de clasificación?",
+    "options": [
+      "Medir la proporción de predicciones correctas entre todas las predicciones realizadas por el modelo.",
+      "Medir la proporción de casos positivos que el modelo identifica correctamente en relación con el total de casos positivos reales.",
+      "Equilibrar precisión y recall en problemas de clasificación."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "35",
+    "question": "¿Qué representa el AUC en las métricas de rendimiento en problemas de clasificación?",
+    "options": [
+      "Área bajo la curva de regresión",
+      "Área bajo la curva ROC",
+      "Área bajo la curva F1"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "36",
+    "question": "¿Qué se busca optimizar al ajustar hiperparámetros y arquitectura en un modelo de IA?",
+    "options": [
+      "La cantidad de datos de entrenamiento",
+      "El tiempo de entrenamiento del modelo",
+      "El rendimiento del modelo, según las métricas específicas del problema"
+    ],
+    "correct": 2
+  }
+]
