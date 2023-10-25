@@ -69,7 +69,7 @@ const showQuiz = async (urlApi) => {
     const btnVerify = document.createElement("button");
     btnVerify.className = "btn btn-primary";
     btnVerify.setAttribute("type", "button");
-    btnVerify.setAttribute("onclick", "");
+    btnVerify.setAttribute("onclick", "verify()");
     btnVerify.textContent = "Enviar";
 
     const btnDiv = document.createElement("div");
@@ -89,5 +89,10 @@ const showQuiz = async (urlApi) => {
 showQuiz(url);
 
 function verify() {
-
+  answers.forEach(op => {
+    const ans = document.createElement("p");
+    ans.className = "text-center";
+    ans.textContent = answers.options[answers.correct];
+    appNode.append(ans);
+  })
 }
