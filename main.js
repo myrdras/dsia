@@ -89,10 +89,10 @@ const showQuiz = async (urlApi) => {
 showQuiz(url);
 
 function verify() {
-  answers.forEach(op => {
+  answers.forEach(item => {
     const ans = document.createElement("p");
     ans.className = "text-center";
-    ans.textContent = answers.options[answers.correct];
+    ans.textContent = item.options[item.correct];
     appNode.append(ans);
   })
 }
